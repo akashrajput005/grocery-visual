@@ -1,4 +1,4 @@
-# Grocery-Sales-and-Outlet-Performance-
+# grocery-visual
 # Overview
 This project involves the creation of a comprehensive Power BI dashboard to analyze the sales performance and outlet metrics for a grocery service. The dashboard provides key insights into sales trends, outlet performance, and customer behavior, enabling stakeholders to make informed decisions.
 
